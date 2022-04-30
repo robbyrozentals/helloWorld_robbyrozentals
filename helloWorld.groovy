@@ -1,3 +1,3 @@
 import com.neuronrobotics.bowlerstudio.BowlerKernel
-// Have BowlerStudio speak messages
-BowlerKernel.speak("Welcome to Bowler Studio")
+// Have  speak messages
+BowlerKernel.speak("I have hacked the planet")
